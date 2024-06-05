@@ -1,0 +1,1 @@
+export const RPC_ENDPOINT = "https://fluent-methodical-theorem.solana-devnet.quiknode.pro/4f34e4789e0bc6f27d0d13487e6e23288c0703af/"
